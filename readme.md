@@ -30,9 +30,14 @@ Code is available at
 
 installation and usage guide is available for both projects on their respective readme.
 
+## Credits
+
+- [Abhishek Sarmah](https://github.com/abhisheksarmah)
+- [Mithicher Baro](https://github.com/mithicher)
+
 ## Contributing
 
-coming soon...
+Contributions in the form of issues and pull requests are welcomed and encouraged.
 
 ## License
 
